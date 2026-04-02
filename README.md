@@ -19,7 +19,7 @@ I'm always happy to connect — whether it's about NLP research, social housing 
 
 | Repo | Description |
 |------|-------------|
-| [engd-WP1_AnSoMe_analyze_social_media](https://github.com/Shray15/engd_WP1_AnSoMe_analyze_social_media) | Ensemble of fine-tuned BERT models (GroNLP, DeBERTa, RobBERT) for Dutch comment intent classification | Ensemle for Sentiment Detection | Similarity for realtedness | K-Means Clustering for Discourse type. [Blog here](https://www.notion.so/What-Do-Tenants-Really-Say-Online-Six-Years-of-Housing-Sustainability-Conversations-Decoded-3221d2aa4ead8068a48ae8ebc9449026?source=copy_link)
+| [engd-WP1_AnSoMe_analyze_social_media](https://github.com/Shray15/engd_WP1_AnSoMe_analyze_social_media) | Ensemble of fine-tuned BERT models (GroNLP, DeBERTa, RobBERT) for Dutch comment intent classification, Ensemle for Sentiment Detection, Similarity for realtedness and K-Means Clustering on these dimensions for Discourse type. [Blog here](https://www.notion.so/What-Do-Tenants-Really-Say-Online-Six-Years-of-Housing-Sustainability-Conversations-Decoded-3221d2aa4ead8068a48ae8ebc9449026?source=copy_link) |
 | [engd-wp2-comment-generation](https://github.com/Shray15/engd-wp2-comment-generation) | Synthetic Dutch tenant comment generation — few-shot, objective & multi-task approaches (Under construction) |
 
 ## Internship
