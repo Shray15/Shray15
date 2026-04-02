@@ -27,7 +27,7 @@ I'm always happy to connect — whether it's about NLP research, social housing 
 | Repo | Description |
 |------|-------------|
 | [msc-thesis-multilabel-audio-uncertainty](https://github.com/Shray15/msc-thesis-multilabel-audio-uncertainty) | MSc thesis: multi-label audio classification with ResNet50 + MC dropout uncertainty estimation |
-| [msc-music-genre-classification](https://github.com/Shray15/msc-music-genre-classification) | Music genre classification using MFCCs — dense NN vs CNN (GTZAN dataset) |
+| [msc_music-genre-classification](https://github.com/Shray15/msc-music-genre-classification) | Music genre classification using MFCCs — dense NN vs CNN (GTZAN dataset) |
 | [msc-handwritten-text-recognition](https://github.com/Shray15/msc-handwritten-text-recognition) | Handwritten line recognition with CTC loss + beam search + character language model (IAM dataset) |
 | [msc-bigcats-image-classification](https://github.com/Shray15/msc-bigcats-image-classification) | Big cats image classification — RF, SVM, KNN with SIFT/MDS/raw pixels + ensemble voting |
 
