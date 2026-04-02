@@ -19,7 +19,7 @@ I'm always happy to connect — whether it's about NLP research, social housing 
 
 | Repo | Description |
 |------|-------------|
-| [engd-wp1-intent-classification](https://github.com/Shray15/engd-wp1-intent-classification) | Ensemble of fine-tuned BERT models (GroNLP, DeBERTa, RobBERT) for Dutch comment intent classification |
+| [engd-WP1_AnSoMe_analyze_social_media](https://github.com/Shray15/engd_WP1_AnSoMe_analyze_social_media) | Ensemble of fine-tuned BERT models (GroNLP, DeBERTa, RobBERT) for Dutch comment intent classification | Ensemle for Sentiment Detection | Similarity for realtedness | K-Means Clustering for Discourse type
 | [engd-wp2-comment-generation](https://github.com/Shray15/engd-wp2-comment-generation) | Synthetic Dutch tenant comment generation — few-shot, objective & multi-task approaches (Llama 3.2 3B) |
 
 ## MSc coursework
