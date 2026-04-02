@@ -27,6 +27,11 @@ I'm always happy to connect — whether it's about NLP research, social housing 
 |------|-------------|
 | [intern_KickstartAI-SummerOfAI2023](https://github.com/Shray15/intern_KickstartAI-SummerOfAI2023) | Internship in KickStartAI, Delft for the prediciton of food insecurity in the Horn of Africa region.|
 
+# Hackathons
+| Repo | Description |
+|------|-------------|
+| [hack-bunq-hackathon-agents-6.0](https://github.com/Shray15/hack-bunq-hackathon-agents-6.0) | AI Agents powered dashboard that analyzes your spending habits, estimates your carbon footprint, and encourages climate-friendly financial decisions |
+| [hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst](https://github.com/Shray15/hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst) | ESPN-style post-match Clash Royale analysis with AI coaching. Upload match recording → get a full broadcast-quality breakdown: deck matchup stats, AI coaching commentary, and a generated highlight video.|
 
 ## MSc coursework
 
