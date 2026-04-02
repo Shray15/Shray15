@@ -2,7 +2,7 @@
 
 **Applied AI Researcher** · EngD @ TU/e × Woonbedrijf · NLP for social housing
 
-I build and fine-tune language models for real-world social impact — currently researching synthetic tenant comment generation and intent classification for Dutch social housing associations.
+I build and fine-tune language models for real-world social impact — currently researching synthetic tenant comment generation and tenant discourse analysis (sentiment, intent, and post relatedness) for Dutch social housing associations.
 
 Previously: NLP Engineer @ Kickstart AI · Data Scientist @ HousingAnywhere
 MSc Artificial Intelligence, University of Groningen
