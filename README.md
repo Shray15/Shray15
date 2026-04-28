@@ -30,6 +30,7 @@ I'm always happy to connect, whether it's about NLP research, social housing tec
 # Hackathons
 | Repo | Description |
 |------|-------------|
+| [hack-bunq-hackathon-7.0](https://github.com/Shray15/hack_bunq_7.0_2026) |Cooking Companion is a voice-first iOS app that collapses four separate daily tasks — deciding what to eat, building a shopping list, paying for groceries, and tracking nutrition — into a single conversational flow. You speak, the app thinks, groceries arrive, and your macros update automatically. |
 | [hack-bunq-hackathon-agents-6.0](https://github.com/Shray15/hack-bunq-hackathon-agents-6.0) | AI Agents powered dashboard that analyzes your spending habits, estimates your carbon footprint, and encourages climate-friendly financial decisions |
 | [hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst](https://github.com/Shray15/hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst) | ESPN-style post-match Clash Royale analysis with AI coaching. Upload match recording → get a full broadcast-quality breakdown: deck matchup stats, AI coaching commentary, and a generated highlight video.|
 
