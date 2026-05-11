@@ -19,20 +19,16 @@ I'm always happy to connect, whether it's about NLP research, social housing tec
 
 | Repo | Description |
 |------|-------------|
-| [engd-WP1_AnSoMe_analyze_social_media](https://github.com/Shray15/engd_WP1_AnSoMe_analyze_social_media) | Ensemble of fine-tuned BERT models (GroNLP, DeBERTa, RobBERT) for Dutch comment intent classification, Ensemle for Sentiment Detection, Similarity for realtedness and K-Means Clustering on these dimensions for Discourse type. [Blog here](https://www.notion.so/What-Do-Tenants-Really-Say-Online-Six-Years-of-Housing-Sustainability-Conversations-Decoded-3221d2aa4ead8068a48ae8ebc9449026?source=copy_link) |
-| [engd-wp2-comment-generation](https://github.com/Shray15/engd-wp2-comment-generation) | Synthetic Dutch tenant comment generation — few-shot, objective & multi-task approaches (Under construction) |
+| [engd-WP1_AnSoMe_analyze_social_media](https://github.com/Shray15/engd_WP1_AnSoMe_analyze_social_media) | Ensemble of fine-tuned BERT models (GroNLP, DeBERTa, RobBERT) for Dutch comment intent classification, Ensemble for Sentiment Detection, Similarity for relatedness and K-Means Clustering on these dimensions for Discourse type. [Blog here](https://www.notion.so/What-Do-Tenants-Really-Say-Online-Six-Years-of-Housing-Sustainability-Conversations-Decoded-3221d2aa4ead8068a48ae8ebc9449026?source=copy_link) |
+| [engd-wp2-comment-generation](https://github.com/Shray15/engd-wp2-comment-generation) | Synthetic Dutch tenant comment generation — few-shot, objective & multi-task fine-tuning approaches |
 
-## Internship
+## Hackathons
+
 | Repo | Description |
 |------|-------------|
-| [intern_KickstartAI-SummerOfAI2023](https://github.com/Shray15/intern_KickstartAI-SummerOfAI2023) | Internship in KickStartAI, Delft for the prediciton of food insecurity in the Horn of Africa region.|
-
-# Hackathons
-| Repo | Description |
-|------|-------------|
-| [hack-bunq-hackathon-7.0](https://github.com/Shray15/hack_bunq_7.0_2026) |Cooking Companion is a voice-first iOS app that collapses four separate daily tasks — deciding what to eat, building a shopping list, paying for groceries, and tracking nutrition — into a single conversational flow. You speak, the app thinks, groceries arrive, and your macros update automatically. |
+| [hack-bunq-hackathon-7.0](https://github.com/Shray15/hack_bunq_7.0_2026) | Voice-first iOS app that collapses meal planning, shopping lists, payments, and macro tracking into a single conversational flow. |
 | [hack-bunq-hackathon-agents-6.0](https://github.com/Shray15/hack-bunq-hackathon-agents-6.0) | AI Agents powered dashboard that analyzes your spending habits, estimates your carbon footprint, and encourages climate-friendly financial decisions |
-| [hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst](https://github.com/Shray15/hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst) | ESPN-style post-match Clash Royale analysis with AI coaching. Upload match recording → get a full broadcast-quality breakdown: deck matchup stats, AI coaching commentary, and a generated highlight video.|
+| [hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst](https://github.com/Shray15/hack-Tech-Europe-Hackathon26---Clash-Royal-Analyst) | ESPN-style post-match Clash Royale analysis with AI coaching. Upload match recording → get a full broadcast-quality breakdown: deck matchup stats, AI coaching commentary, and a generated highlight video. |
 
 ## MSc coursework
 
@@ -52,4 +48,4 @@ I'm always happy to connect, whether it's about NLP research, social housing tec
 
 ---
 
-📍 Eindhoven, Netherlands · [LinkedIn](www.linkedin.com/in/shray-juneja-3b933052)
+📍 Eindhoven, Netherlands · [LinkedIn](https://www.linkedin.com/in/shray-juneja-3b933052)
